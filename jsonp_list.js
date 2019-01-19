@@ -1,0 +1,1 @@
+window.jsonp_list=["./data/august.js",'山岸逢花','小川あさ美'];
